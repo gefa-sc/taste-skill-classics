@@ -1,0 +1,24 @@
+{
+  "name": "taste-skill-classics",
+  "description": "The classic taste-skill styles and earlier versions: soft, minimalist, brutalist, gpt-taste, Stitch, v1 and v2-experimental.",
+  "owner": {
+    "name": "leonxlnx",
+    "email": "hello@tasteskill.dev"
+  },
+  "plugins": [
+    {
+      "name": "taste-skill-classics",
+      "description": "The classic taste-skill styles and earlier versions (soft, minimalist, brutalist, gpt-taste, Stitch, v1, v2-experimental). Opt-in: each runs only when called by name.",
+      "version": "1.0.0",
+      "source": "./",
+      "author": {
+        "name": "leonxlnx",
+        "email": "hello@tasteskill.dev"
+      },
+      "homepage": "https://github.com/Leonxlnx/taste-skill-classics",
+      "repository": "https://github.com/Leonxlnx/taste-skill-classics",
+      "license": "MIT",
+      "keywords": ["skills", "frontend", "design", "styles"]
+    }
+  ]
+}

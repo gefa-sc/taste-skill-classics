@@ -1,0 +1,21 @@
+{
+  "name": "taste-skill-classics",
+  "interface": {
+    "displayName": "Taste Skill Classics"
+  },
+  "plugins": [
+    {
+      "name": "taste-skill-classics",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/Leonxlnx/taste-skill-classics.git",
+        "ref": "main"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Design"
+    }
+  ]
+}
